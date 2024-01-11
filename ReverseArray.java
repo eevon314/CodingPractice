@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class codilityTwoOne {
+public class ReverseArray {
     public static void main(String[] args) {
         //Create an array
         String[] numbers = {"one", "two", "three", "four", "five"};
