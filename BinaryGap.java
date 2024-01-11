@@ -6,7 +6,7 @@
 
 import javax.xml.transform.Result;
 
-public class codilityOne {
+public class binaryGap {
     public static void main(String[] args) {
         int bg = solution(647); //bt is binary in int form (BinaryText)
 
