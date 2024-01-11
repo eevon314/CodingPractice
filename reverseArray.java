@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class ReverseArray {
+public class reverseArray {
     public static void main(String[] args) {
         //Create an array
         String[] numbers = {"one", "two", "three", "four", "five"};
